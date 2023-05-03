@@ -1,6 +1,6 @@
 # ML_PROJECT
-This is the data set of loan.
-With the help of this loan dataset we perdict that which person is eligible for loan
-On this Data set first I have performed EDA and then I have applied different classifiers algorithm of classification.
-And at the end I have compared all different algorithm score.
-And on the basis of that score I have decided the best algorithm model with best score of 99.87%
+The model for determining loan eligibility prediction has to be trained using a dataset that consists of data including data such as sex, marital status, number of dependents, income, qualifications, credit card history and loan amount to name a few. 
+For this project, I make use of the dataset of loan. 
+This project will require training and testing the data model using the method of cross validation. 
+After using data visualization techniques, clean the data, fill in the missing values and applying differenty algorithms. 
+I got the result of 99.87% accuracy
